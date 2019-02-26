@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListMe</string>
+    <string name="tanggal_button">Pilih Tanggal</string>
+    <string name="namaAktivitas_textView">Nama Aktivitas</string>
+    <string name="entry_editText">Your Entry</string>
+    <string name="waktu_button">Pilih Waktu</string>
+    <string name="pengingat_button">Tambah Pengingat</string>
+    <string name="notes_textView">Note:</string>
+    <string name="isiNotes_editText">Type Something Here</string>
+    <string name="prioritas_textView">Prioritas</string>
+
+</resources>
